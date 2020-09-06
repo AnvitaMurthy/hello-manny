@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/hello-manny/static/css/main.80cbfdc8.chunk.css",
+    "main.js": "/hello-manny/static/js/main.62117006.chunk.js",
+    "main.js.map": "/hello-manny/static/js/main.62117006.chunk.js.map",
+    "runtime-main.js": "/hello-manny/static/js/runtime-main.5be22c46.js",
+    "runtime-main.js.map": "/hello-manny/static/js/runtime-main.5be22c46.js.map",
+    "static/css/2.8f118048.chunk.css": "/hello-manny/static/css/2.8f118048.chunk.css",
+    "static/js/2.5d48d36f.chunk.js": "/hello-manny/static/js/2.5d48d36f.chunk.js",
+    "static/js/2.5d48d36f.chunk.js.map": "/hello-manny/static/js/2.5d48d36f.chunk.js.map",
+    "index.html": "/hello-manny/index.html",
+    "precache-manifest.2b110449e4d4df1deffdda7a84d7b587.js": "/hello-manny/precache-manifest.2b110449e4d4df1deffdda7a84d7b587.js",
+    "service-worker.js": "/hello-manny/service-worker.js",
+    "static/css/2.8f118048.chunk.css.map": "/hello-manny/static/css/2.8f118048.chunk.css.map",
+    "static/css/main.80cbfdc8.chunk.css.map": "/hello-manny/static/css/main.80cbfdc8.chunk.css.map",
+    "static/js/2.5d48d36f.chunk.js.LICENSE.txt": "/hello-manny/static/js/2.5d48d36f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hello-manny/static/media/logo.5d5d9eef.svg",
+    "static/media/m1.mp4": "/hello-manny/static/media/m1.79940b84.mp4",
+    "static/media/m2.mp4": "/hello-manny/static/media/m2.ebcded71.mp4",
+    "static/media/m3.mp4": "/hello-manny/static/media/m3.3693ff3b.mp4",
+    "static/media/m4.mp4": "/hello-manny/static/media/m4.0f973208.mp4",
+    "static/media/m5.mp4": "/hello-manny/static/media/m5.8a852b03.mp4",
+    "static/media/m7.mp4": "/hello-manny/static/media/m7.fa6f4d74.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5be22c46.js",
+    "static/css/2.8f118048.chunk.css",
+    "static/js/2.5d48d36f.chunk.js",
+    "static/css/main.80cbfdc8.chunk.css",
+    "static/js/main.62117006.chunk.js"
+  ]
+}
